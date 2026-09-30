@@ -1,2 +1,2 @@
-# Eddd
+# EduGenie
 AI-powered educational assistant 
